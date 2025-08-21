@@ -33,7 +33,7 @@ export default function About() {
           <FadeIn delay={150} className="md:col-span-7">
             <div className="relative h-[500px] lg:h-[600px] w-full rounded-lg overflow-hidden">
               <img
-                src="src/assets/resonare-about.png"
+                src="/resonare-about.png"
                 alt="Interior with palm trees and ornate architecture"
                 className="w-full h-full object-cover"
               />

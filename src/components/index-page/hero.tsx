@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="relative min-h-screen flex items-center overflow-hidden">
       <div className="absolute inset-0 -z-10">
         <img
-          src="src/assets/resonare-hero.jpg"
+          src="/resonare-hero.jpg"
           alt="Resonare Hero"
           className="w-full h-full object-cover"
         />
